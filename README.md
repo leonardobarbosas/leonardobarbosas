@@ -2,11 +2,6 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=OLA,+EU+SOU+O+LEONARDO+BARBOSA;TENHO+20+ANOS+DE+IDADE;EU+SOU+DE+BARUERI,+SP;Estudo+Análise+e+Desenvolvimento+de+Sistemas+na+FIAP;Já+cursei+desenvolvimento+de+sistemas+no+Senai;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardobarbosas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardobarbosas&layout=compact&theme=tokyonight"/>
-</div>
- 
 ### Main skills:
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=0D1117)&nbsp;
